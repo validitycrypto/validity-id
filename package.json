@@ -1,0 +1,27 @@
+{
+  "name": "validity-id",
+  "version": "0.1.0",
+  "description": "Validity ID implementation",
+  "main": "validity-id.js",
+  "scripts": {
+    "test": "npx mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://bitbucket.org/raypulver/validity-id.git"
+  },
+  "keywords": [
+    "validity",
+    "id"
+  ],
+  "author": "Raymond Pulver IV",
+  "license": "MIT",
+  "homepage": "https://bitbucket.org/raypulver/validity-id#readme",
+  "dependencies": {
+    "web3-utils": "^1.0.0-beta.55"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  }
+}
